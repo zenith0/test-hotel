@@ -201,7 +201,7 @@ section {
 }
 
 .section-header p {
-    color: var(--text-light);
+    color: #e5e7eb;
     font-size: 1.1rem;
 }
 
@@ -219,7 +219,7 @@ section {
 
 .welcome-text p {
     margin-bottom: 1rem;
-    color: var(--text-light);
+    color: #d1d5db;
     font-size: 1.1rem;
     line-height: 1.8;
 }
